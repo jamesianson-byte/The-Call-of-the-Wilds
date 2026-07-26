@@ -15,3 +15,12 @@ Day 9
 
 Day 11
 • Arrived at Whisper Hollow.
+
+Day 12
+• Spoke with the grove at Whisper Hollow.
+• Met the Great Elk.
+• Swore the Warden's Oath.
+• Was accepted by Stone-Sleeper.
+• Met Sky-Eye.
+• Returned to Whisper Hollow as the Eighth Warden.
+• Advanced to Level 8.
