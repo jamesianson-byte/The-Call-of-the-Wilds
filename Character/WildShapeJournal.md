@@ -19,7 +19,7 @@ As Fae journeys across Faerûn, this journal will grow alongside him.
 
 # Current Wild Shape Limits
 
-**Druid Level:** 7
+**Druid Level:** 8
 
 **Circle:** Circle of the Moon
 
@@ -27,7 +27,7 @@ As Fae journeys across Faerûn, this journal will grow alongside him.
 
 **Restrictions**
 
-- ❌ No Flying Speed (Unlocked at Druid Level 8)
+- ✅ Flying Forms Permitted
 - ✅ Swimming Forms Permitted
 - ✅ Beast must have been personally encountered
 
@@ -233,6 +233,35 @@ Patient hunters that survive through cooperation.
 
 ---
 
+### Giant Eagle ⭐ *(New)*
+
+**Challenge Rating:** 1
+
+**Habitat:** High forests, cliffs and open mountain air
+
+**First Encounter:** Sky-Eye — the eastern escarpment above Whisper Hollow
+
+**Observed From**
+
+Sky-Eye, the eldest watcher of the skies.
+
+**Uses**
+
+- Aerial reconnaissance
+- Rapid movement
+- Battlefield observation
+- High-speed travel
+
+**Notes**
+
+Sky-Eye showed me that the world is stitched together by what can be seen from above.
+
+To fly is to understand the forest as a whole rather than as separate trees.
+
+This form teaches patience, distance and pattern.
+
+---
+
 # Large
 
 ### Crocodile
@@ -313,7 +342,6 @@ To become a Cave Bear is to remember that the oldest guardians endure because th
 These creatures are known to exist, but Fae has not yet observed them closely enough to assume their shape.
 
 - Great Elk
-- Giant Eagle (Sky-Eye or another suitable eagle)
 - Moon Panther
 - Giant Constrictor Snake
 - Saber-Toothed Tiger
