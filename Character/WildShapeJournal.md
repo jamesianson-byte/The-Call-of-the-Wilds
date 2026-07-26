@@ -11,39 +11,64 @@ Fae refuses to assume the shape of any beast he has not personally encountered a
 
 Each entry records not only the creature's physical traits, but also its behaviour, habitat, and the lessons it has taught him.
 
-As Fae journeys across the world, this journal will grow alongside him.
+Wild Shape is not merely magic—it is understanding. Every new form represents a lesson learned from the natural world.
+
+As Fae journeys across Faerûn, this journal will grow alongside him.
 
 ---
 
 # Current Wild Shape Limits
 
-**Druid Level:** 5
+**Druid Level:** 7
 
 **Circle:** Circle of the Moon
 
-**Maximum Challenge Rating:** CR 1
+**Maximum Challenge Rating:** CR 2
 
 **Restrictions**
 
-- No Flying Speed
-- Swimming Forms Permitted
-- Beast must have been personally encountered
+- ❌ No Flying Speed (Unlocked at Druid Level 8)
+- ✅ Swimming Forms Permitted
+- ✅ Beast must have been personally encountered
 
 ---
 
-# Mouse
+# Campaign Rules
 
-**Challenge Rating:** 0
+## Learning New Forms
 
-**Size:** Tiny
+A beast can only be added to this journal after Fae has personally encountered and observed it in the wild (or another believable circumstance approved during play).
 
-**Movement:** 20 ft.
+Simply reaching a higher level does not automatically grant knowledge of new forms.
 
+---
+
+## Voice of the Wild *(Campaign Feature)*
+
+While transformed by Wild Shape, Fae can communicate naturally with Beasts.
+
+This communication consists of instinct, body language, scent, emotion and simple concepts rather than spoken language.
+
+This feature:
+
+- requires no spell slot
+- is not magical
+- does not compel beasts to cooperate
+
+It represents Fae's deepening bond with the ancient guardians of the forest.
+
+---
+
+# Known Forms
+
+## Tiny
+
+### Mouse
+
+**Challenge Rating:** 0  
 **Habitat:** Forests, fields, settlements
 
-**First Encounter:** Before the campaign — High Forest
-
-**Purpose**
+**Uses**
 
 - Reconnaissance
 - Infiltration
@@ -55,19 +80,11 @@ Small enough to pass unnoticed almost anywhere.
 
 ---
 
-# Rat
+### Rat
 
 **Challenge Rating:** 0
 
-**Size:** Tiny
-
-**Movement:** 20 ft.
-
-**Habitat:** Settlements, ruins, sewers
-
-**First Encounter:** Before the campaign
-
-**Purpose**
+**Uses**
 
 - Urban scouting
 - Infiltration
@@ -78,21 +95,13 @@ Often overlooked by larger creatures.
 
 ---
 
-# Weasel
+### Weasel
 
 **Challenge Rating:** 0
 
-**Size:** Tiny
+**Uses**
 
-**Movement:** 30 ft.
-
-**Habitat:** Woodland
-
-**First Encounter:** Before the campaign
-
-**Purpose**
-
-- Exploring narrow spaces
+- Narrow passages
 - Quiet movement
 
 **Notes**
@@ -101,19 +110,11 @@ Fast, curious and surprisingly fearless.
 
 ---
 
-# Cat
+### Cat
 
 **Challenge Rating:** 0
 
-**Size:** Tiny
-
-**Movement:** 40 ft.
-
-**Habitat:** Villages and woodland edges
-
-**First Encounter:** Before the campaign
-
-**Purpose**
+**Uses**
 
 - Stealth
 - Observation
@@ -124,19 +125,13 @@ Comfortable around civilisation while retaining a hunter's instincts.
 
 ---
 
-# Badger
+# Small
+
+### Badger
 
 **Challenge Rating:** 0
 
-**Size:** Small
-
-**Movement:** 20 ft.
-
-**Habitat:** Woodland
-
-**First Encounter:** Before the campaign
-
-**Purpose**
+**Uses**
 
 - Digging
 - Burrowing
@@ -147,19 +142,11 @@ Patient, determined and territorial.
 
 ---
 
-# Wolf Spider
+### Wolf Spider
 
 **Challenge Rating:** ¼
 
-**Size:** Small
-
-**Movement:** 40 ft., Climb 40 ft.
-
-**Habitat:** Forests and caves
-
-**First Encounter:** Before the campaign
-
-**Purpose**
+**Uses**
 
 - Climbing
 - Silent scouting
@@ -170,19 +157,13 @@ An agile hunter that relies on speed rather than webs.
 
 ---
 
-# Wolf
+# Medium
+
+### Wolf
 
 **Challenge Rating:** ¼
 
-**Size:** Medium
-
-**Movement:** 40 ft.
-
-**Habitat:** Forests
-
-**First Encounter:** Before the campaign
-
-**Purpose**
+**Uses**
 
 - Tracking
 - Pack tactics
@@ -194,117 +175,85 @@ Patient hunters that survive through cooperation.
 
 ---
 
-# Giant Wolf Spider
+### Giant Wolf Spider
 
 **Challenge Rating:** ¼
 
-**Size:** Medium
-
-**Movement:** 40 ft., Climb 40 ft.
-
-**Habitat:** Forests and caverns
-
-**First Encounter:** Before the campaign
-
-**Purpose**
+**Uses**
 
 - Ambush
 - Climbing
 - Stealth
 
-**Notes**
-
-Exceptional at approaching prey unseen.
-
 ---
 
-# Giant Badger
+### Giant Badger
 
 **Challenge Rating:** ¼
 
-**Size:** Medium
-
-**Movement:** 30 ft., Burrow 10 ft.
-
-**Habitat:** Woodland
-
-**First Encounter:** Before the campaign
-
-**Purpose**
+**Uses**
 
 - Burrowing
-- Close combat
-
-**Notes**
-
-Surprisingly aggressive when protecting its territory.
+- Combat
 
 ---
 
-# Giant Poisonous Snake
+### Giant Poisonous Snake
 
 **Challenge Rating:** ¼
 
-**Size:** Medium
-
-**Movement:** 30 ft., Swim 30 ft.
-
-**Habitat:** Marshes, rivers and forests
-
-**First Encounter:** Before the campaign
-
-**Purpose**
+**Uses**
 
 - Ambush
 - Poison
 - Swimming
 
-**Notes**
-
-A patient predator that strikes only when success is almost certain.
-
 ---
 
-# Panther
+### Panther
 
 **Challenge Rating:** ¼
 
-**Size:** Medium
-
-**Movement:** 50 ft., Climb 40 ft.
-
-**Habitat:** Dense woodland
-
-**First Encounter:** Before the campaign
-
-**Purpose**
+**Uses**
 
 - Stealth
-- Fast pursuit
+- Pursuit
 - Climbing
-
-**Notes**
-
-Silent, graceful and almost invisible among the trees.
 
 ---
 
-# Brown Bear
+### Reef Shark
+
+**Challenge Rating:** ½
+
+**Uses**
+
+- Underwater exploration
+- Hunting
+
+---
+
+# Large
+
+### Crocodile
+
+**Challenge Rating:** ½
+
+**Uses**
+
+- Aquatic travel
+- Ambush
+
+---
+
+### Brown Bear
 
 **Challenge Rating:** 1
 
-**Size:** Large
-
-**Movement:** 40 ft.
-
-**Habitat:** Forests and mountains
-
-**First Encounter:** Before the campaign
-
-**Purpose**
+**Uses**
 
 - Front-line combat
-- Protecting allies
+- Protection
 
 **Notes**
 
@@ -312,23 +261,15 @@ Powerful without needless aggression. A mother defending her cubs taught me that
 
 ---
 
-# Dire Wolf
+### Dire Wolf
 
 **Challenge Rating:** 1
 
-**Size:** Large
-
-**Movement:** 50 ft.
-
-**Habitat:** Deep forests and remote wilderness
-
-**First Encounter:** Before the campaign
-
-**Purpose**
+**Uses**
 
 - Tracking
-- Front-line combat
 - Pursuit
+- Front-line combat
 
 **Notes**
 
@@ -336,46 +277,45 @@ Larger and more intelligent than common wolves, yet still driven by loyalty to t
 
 ---
 
-# Crocodile
+### Cave Bear ⭐ *(New)*
 
-**Challenge Rating:** ½
+**Challenge Rating:** 2
 
-**Size:** Large
+**Movement:** 40 ft.
 
-**Movement:** 20 ft., Swim 30 ft.
+**Habitat:** Ancient forests and remote mountain wilderness
 
-**Habitat:** Rivers and marshes
+**First Encounter:** The Forest Oracle — Whisper Hollow
 
-**First Encounter:** Before the campaign
+**Observed From**
 
-**Purpose**
+Old Bramble, one of the oldest living guardians of the forest.
 
-- Aquatic travel
-- Ambush
+**Uses**
+
+- Front-line combat
+- Endurance
+- Area control
+- Intimidation
 
 **Notes**
 
-Stillness is its greatest weapon.
+Old Bramble showed me that true strength is measured in patience, wisdom and restraint rather than fury.
+
+His immense size commands respect, yet he carries himself with remarkable calm.
+
+To become a Cave Bear is to remember that the oldest guardians endure because they choose their battles carefully.
 
 ---
 
-# Reef Shark
+# Forms Yet to Earn
 
-**Challenge Rating:** ½
+These creatures are known to exist, but Fae has not yet observed them closely enough to assume their shape.
 
-**Size:** Medium
-
-**Movement:** Swim 40 ft.
-
-**Habitat:** Coastal waters
-
-**First Encounter:** Before the campaign
-
-**Purpose**
-
-- Underwater exploration
-- Hunting
-
-**Notes**
-
-Perfectly adapted to life beneath the waves, moving with effortless precision.
+- Great Elk
+- Giant Eagle (Sky-Eye or another suitable eagle)
+- Moon Panther
+- Giant Constrictor Snake
+- Saber-Toothed Tiger
+- Hunter Shark
+- Any other suitable beasts encountered during the campaign
