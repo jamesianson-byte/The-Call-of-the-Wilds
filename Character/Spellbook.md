@@ -8,15 +8,15 @@
 
 **Class:** Druid (Circle of the Moon)
 
-**Level:** 7
+**Level:** 8
 
 **Spellcasting Ability:** Wisdom
 
-**Spell Save DC:** 15
+**Spell Save DC:** 16
 
-**Spell Attack Bonus:** +7
+**Spell Attack Bonus:** +8
 
-**Prepared Spells:** 11
+**Prepared Spells:** 13
 
 Prepared spells may be changed after every Long Rest.
 
@@ -29,7 +29,7 @@ Prepared spells may be changed after every Long Rest.
 | 1st | 4 |
 | 2nd | 3 |
 | 3rd | 3 |
-| 4th | 1 |
+| 4th | 2 |
 
 ---
 
@@ -160,6 +160,12 @@ Fae temporarily embodies the spirit of the ancient wild.
 - His connection to the forest deepens, making him extraordinarily resilient.
 
 Reserved for moments when the balance of nature itself must be defended.
+
+---
+
+### Freedom of Movement
+
+A practical protection when the battlefield becomes tangled, submerged, restrained or otherwise inconvenient.
 
 ---
 
