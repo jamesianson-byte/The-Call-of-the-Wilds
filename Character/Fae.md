@@ -12,7 +12,7 @@
 
 **Class:** Druid (Circle of the Moon)
 
-**Level:** 7
+**Level:** 8
 
 **Background:** Outlander
 
@@ -28,7 +28,7 @@
 
 **Current Location:** Whisper Hollow
 
-**Campaign Stage:** Awaiting the Great Elk
+**Campaign Stage:** Eighth Warden of the Ancient Forest
 
 ---
 
@@ -83,20 +83,20 @@ His greatest joy comes from discovering somewhere—or something—he has never 
 | Dexterity | 16 | +3 |
 | Constitution | 14 | +2 |
 | Intelligence | 10 | +0 |
-| Wisdom | 18 | +4 |
+| Wisdom | 20 | +5 |
 | Charisma | 12 | +1 |
 
 ---
 
 # Combat Statistics
 
-**Maximum HP:** _(Update previous value +16)_
+**Maximum HP:** _(Update previous value +7)_
 
 **Proficiency Bonus:** +3
 
-**Spell Save DC:** 15
+**Spell Save DC:** 16
 
-**Spell Attack Bonus:** +7
+**Spell Attack Bonus:** +8
 
 ---
 
@@ -144,7 +144,7 @@ His greatest joy comes from discovering somewhere—or something—he has never 
 - Heal while transformed by expending spell slots
 - Maximum Beast Challenge Rating: **CR 2**
 - Swimming forms permitted
-- Flying forms unavailable until Level 8
+- Flying forms available at Level 8, subject to personal observation
 
 ### Primal Strike
 
@@ -192,7 +192,7 @@ Prepared spells may be changed after every Long Rest.
 | 1st | 4 |
 | 2nd | 3 |
 | 3rd | 3 |
-| 4th | 1 |
+| 4th | 2 |
 
 ---
 
@@ -227,6 +227,7 @@ Prepared spells may be changed after every Long Rest.
 ## 4th Level
 
 - Guardian of Nature
+- Freedom of Movement
 
 ---
 
@@ -271,6 +272,9 @@ Prepared spells may be changed after every Long Rest.
 - Aelthiel
 - Forest Oracle
 - Old Bramble
+- Great Elk
+- Stone-Sleeper
+- Sky-Eye
 
 ---
 
@@ -278,9 +282,9 @@ Prepared spells may be changed after every Long Rest.
 
 - Forest Oracle
 - Old Bramble
-- Great Elk *(yet to be met)*
-- Sky-Eye *(known by reputation)*
-- Stone-Sleeper *(known by reputation)*
+- Great Elk *(met and accepted as Warden)*
+- Sky-Eye *(met and accepted as Warden)*
+- Stone-Sleeper *(met and accepted as Warden)*
 - Grey Antlers *(known by reputation)*
 
 ---
