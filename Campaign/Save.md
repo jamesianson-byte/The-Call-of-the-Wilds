@@ -10,7 +10,7 @@
 
 **Adventure:** The Forest Oracle
 
-**Session:** End of Session 2
+**Session:** End of Session 3
 
 **Campaign Date:** Late Summer *(exact date unknown)*
 
@@ -24,7 +24,7 @@
 
 **Class:** Circle of the Moon Druid
 
-**Level:** 7
+**Level:** 8
 
 ---
 
@@ -34,15 +34,15 @@
 
 An ancient stone circle surrounding a crystal spring deep within the old forest.
 
-Fae is peacefully waiting for the arrival of the Great Elk after receiving guidance from Aelthiel and the Forest Oracle.
+Fae has returned to Whisper Hollow after being accepted as the Eighth Warden by the Great Elk, Stone-Sleeper and Sky-Eye.
 
-The Great Elk is expected to arrive in approximately **three dawns**.
+The Grey Order is believed to be at least one to two days away from the deep forest.
 
 ---
 
 # Current Condition
 
-**Hit Points:** *(Update after calculating Level 7 HP)*
+**Hit Points:** *(Update after calculating Level 8 HP)*
 
 **Wild Shape Uses Remaining:** 2 / 2
 
@@ -51,7 +51,7 @@ The Great Elk is expected to arrive in approximately **three dawns**.
 - 1st: 4 / 4
 - 2nd: 3 / 3
 - 3rd: 3 / 3
-- 4th: 1 / 1
+- 4th: 2 / 2
 
 **Conditions**
 
@@ -70,21 +70,24 @@ Last Long Rest completed before travelling to Whisper Hollow.
 - Aelthiel
 - Forest Oracle
 - Old Bramble
+- Great Elk
+- Stone-Sleeper
+- Sky-Eye
 
 ---
 
 # Known Ancient Guardians
 
-Met
+## Met
 
 - Forest Oracle
 - Old Bramble
-
-Known by reputation
-
 - Great Elk
-- Sky-Eye
 - Stone-Sleeper
+- Sky-Eye
+
+## Known by reputation
+
 - Grey Antlers
 
 ---
@@ -97,11 +100,14 @@ Known by reputation
 - Learn the truth of the Seven Wardens.
 - Protect the Stone Door.
 - Discover the remaining Ancient Guardians.
+- Prepare Whisper Hollow for the Grey Order's arrival.
+- Decide whether the ancient wound beneath the Stone Door can be healed.
 
 ## Secondary
 
 - Continue documenting worthy Wild Shape forms.
 - Restore the balance of the ancient forest.
+- Learn how the forest wants mercy to be shown.
 
 ---
 
@@ -119,12 +125,21 @@ Known by reputation
 - Met Old Bramble.
 - Learned Cave Bear Wild Shape.
 - Travelled to Whisper Hollow.
+- Met the Great Elk.
+- Swore the Warden's Oath.
+- Judged by Stone-Sleeper and accepted as a Warden.
+- Received the acorn stewardship test.
+- Met Sky-Eye.
+- Learned the Grey Order is advancing but has not yet reached the deep forest.
+- Learned the forest still contains an orc clan whose shaman has spoken respectfully with Old Bramble.
+- Returned to Whisper Hollow.
+- Advanced to Level 8.
 
 ---
 
 ## Current Objective
 
-Remain at Whisper Hollow until the Great Elk arrives.
+Prepare Whisper Hollow and the surrounding forest before the Grey Order arrives.
 
 ---
 
@@ -169,19 +184,24 @@ The Stone Door remains sealed.
 
 Grey Ledger's immediate expedition has failed.
 
+The Grey Order is approaching the forest, but has not yet reached the deep interior.
+
 The forest is slowly healing.
 
 Ancient guardians have begun acknowledging Fae as one of their trusted allies.
+
+The covenant of the Wardens now seeks not merely containment, but eventual healing of the ancient wound.
 
 ---
 
 # Adventure Hooks
 
-- Meet the Great Elk.
+- Meet Grey Antlers.
 - Discover the Circle of Ash.
 - Locate the remaining ancient sites shown on the recovered map.
 - Uncover Grey Ledger's wider plans.
 - Decide the ultimate fate of the Stone Door.
+- Prepare for first contact with the Grey Order.
 
 ---
 
