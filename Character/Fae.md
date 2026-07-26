@@ -12,13 +12,40 @@
 
 **Class:** Druid (Circle of the Moon)
 
-**Level:** 5
+**Level:** 7
 
 **Background:** Outlander
 
 **Alignment:** Good (to be defined during play)
 
 **Homeland:** Aelindor Glade, High Forest
+
+---
+
+# Current Status
+
+**Current Adventure:** The Forest Oracle
+
+**Current Location:** Whisper Hollow
+
+**Campaign Stage:** Awaiting the Great Elk
+
+---
+
+# Current Goals
+
+## Primary
+
+- Meet the Great Elk.
+- Discover the remaining Ancient Guardians.
+- Learn the truth of the Seven Wardens.
+- Protect the Stone Door until the truth is fully understood.
+
+## Secondary
+
+- Learn from every beast worthy of Wild Shape.
+- Leave every place healthier than he found it.
+- Record the ancient history of the forest.
 
 ---
 
@@ -48,49 +75,6 @@ His greatest joy comes from discovering somewhere—or something—he has never 
 
 ---
 
-# Ideals
-
-**Balance.**
-Civilisation and wilderness must exist together.
-
-**Knowledge.**
-Every creature has something to teach those willing to watch.
-
-**Compassion.**
-Strength should be used to protect those who cannot protect themselves.
-
----
-
-# Bonds
-
-- Aelindor Glade will always be home.
-- Every forest deserves a guardian.
-- He keeps detailed journals so future generations may understand the natural world.
-
----
-
-# Flaws
-
-- Can become distracted by unfamiliar wildlife or ancient natural sites.
-- Sometimes values the needs of nature over the convenience of civilisation.
-- Finds needless destruction difficult to forgive.
-
----
-
-# Background
-
-Fae was born among the Wood Elves of **Aelindor Glade**, a secluded settlement hidden within the High Forest.
-
-Unlike many of his kin, he never felt called to remain in one place. His elders recognised that curiosity was simply part of who he was and encouraged him to travel rather than suppress it.
-
-For years he has wandered from woodland to woodland, mountain to mountain and river to river, recording the creatures he encounters and learning how each landscape survives.
-
-He carries no grand prophecy and seeks no forgotten crown.
-
-He simply believes the world becomes worth protecting only after it has been truly understood.
-
----
-
 # Ability Scores
 
 | Ability | Score | Modifier |
@@ -104,9 +88,15 @@ He simply believes the world becomes worth protecting only after it has been tru
 
 ---
 
-# Proficiency Bonus
+# Combat Statistics
 
-+3
+**Maximum HP:** _(Update previous value +16)_
+
+**Proficiency Bonus:** +3
+
+**Spell Save DC:** 15
+
+**Spell Attack Bonus:** +7
 
 ---
 
@@ -119,19 +109,11 @@ He simply believes the world becomes worth protecting only after it has been tru
 
 # Skills
 
-## Background (Outlander)
-
-- Athletics
-- Survival
-
-## Class
-
 - Animal Handling
+- Athletics
 - Nature
-
-## Race
-
 - Perception
+- Survival
 
 ---
 
@@ -145,90 +127,72 @@ He simply believes the world becomes worth protecting only after it has been tru
 
 # Racial Features
 
-## Darkvision
-
-60 feet.
-
----
-
-## Keen Senses
-
-Proficiency in Perception.
-
----
-
-## Fey Ancestry
-
-Advantage on saving throws against being charmed.
-
-Magic cannot put you to sleep.
-
----
-
-## Trance
-
-Meditate for four hours instead of sleeping.
-
----
-
-## Mask of the Wild
-
-Can attempt to hide even when only lightly obscured by natural phenomena such as foliage, rain, mist or falling snow.
+- Darkvision
+- Keen Senses
+- Fey Ancestry
+- Trance
+- Mask of the Wild
 
 ---
 
 # Class Features
 
-## Druidic
-
-Secret language known only to druids.
-
----
-
-## Spellcasting
-
-Wisdom is Fae's spellcasting ability.
-
-**Spell Save DC:** 15
-
-**Spell Attack Bonus:** +7
-
-Prepared spells can be changed after every long rest.
-
----
-
 ## Wild Shape
 
-Uses: **2 per Short Rest**
+- Uses: **2 per Short Rest**
+- Transform as a Bonus Action
+- Heal while transformed by expending spell slots
+- Maximum Beast Challenge Rating: **CR 2**
+- Swimming forms permitted
+- Flying forms unavailable until Level 8
 
-Combat Wild Shape allows transformation as a Bonus Action.
+### Primal Strike
 
-Spell slots may be expended while transformed to regain hit points.
-
-Current maximum Beast Challenge Rating:
-
-**CR 1**
-
-Restrictions:
-
-- No flying creatures.
-- Swimming creatures permitted.
+Attacks made while in Beast Shape count as magical for overcoming resistance and immunity to non-magical attacks.
 
 ---
 
 ## Circle of the Moon
 
-### Combat Wild Shape
-
-Transform as a Bonus Action.
-
-Heal while transformed by expending spell slots.
+- Combat Wild Shape
+- Circle Forms (CR 2)
 
 ---
 
-### Circle Forms
+## Campaign Features
 
-Maximum Wild Shape Challenge Rating increased to CR 1.
+### Voice of the Wild *(Campaign Feature)*
+
+Through his deep bond with the ancient guardians of the forest, Fae can communicate naturally with Beasts while in Wild Shape.
+
+This communication conveys instinct, emotion, scent and simple concepts rather than spoken language.
+
+This ability is not magical, requires no spell slot and does not compel creatures to cooperate.
+
+---
+
+### Friend of the Ancient Forest *(Campaign Feature)*
+
+Fae is recognised by many ancient guardians, fey and awakened creatures as a trusted protector of the forest.
+
+While this grants no automatic friendship, those who recognise this bond will often choose conversation before conflict.
+
+---
+
+# Spellcasting
+
+Wisdom is Fae's spellcasting ability.
+
+Prepared spells may be changed after every Long Rest.
+
+## Spell Slots
+
+| Spell Level | Slots |
+|-------------|------:|
+| 1st | 4 |
+| 2nd | 3 |
+| 3rd | 3 |
+| 4th | 1 |
 
 ---
 
@@ -260,76 +224,68 @@ Maximum Wild Shape Challenge Rating increased to CR 1.
 - Plant Growth
 - Speak with Plants
 
----
+## 4th Level
 
-# Combat Philosophy
-
-Fae rarely rushes into battle.
-
-He prefers to shape the battlefield with magic before becoming one of nature's predators.
-
-Typical tactics include:
-
-- Entangle before transforming.
-- Moonbeam against dangerous or supernatural foes.
-- Heal companions whenever possible.
-- Wild Shape only once the battlefield has been prepared.
-
-Violence is never his first answer, but once chosen, he fights with the relentless determination of the wild itself.
-
----
-
-# Wild Shape Philosophy
-
-Every beast represents a lesson rather than simply another combat form.
-
-Fae refuses to become creatures he has never encountered.
-
-Each transformation is recorded within his Wild Shape Journal alongside observations of the animal's behaviour, habitat and significance.
-
-His forms are earned through exploration rather than automatically acquired.
+- Guardian of Nature
 
 ---
 
 # Equipment
 
-Travelling Staff
-
-Leather Armour
-
-Wooden Shield
-
-Scimitar
-
-Explorer's Pack
-
-Druidic Focus
-
-Herbalism Kit
-
-Bedroll
-
-Waterskin
-
-Hunting Trap
-
-Traveller's Clothes
-
-Journal and charcoal pencils for recording wildlife observations
+- Travelling Staff
+- Leather Armour
+- Wooden Shield
+- Scimitar
+- Explorer's Pack
+- Druidic Focus
+- Herbalism Kit
+- Bedroll
+- Waterskin
+- Hunting Trap
+- Traveller's Clothes
+- Wildlife Journal & Charcoal Pencils
 
 ---
 
-# Current Goals
+# Treasure
 
-- Explore the unknown regions beyond the High Forest.
-- Record every beast worthy of Wild Shape.
-- Help those living on the frontier between civilisation and wilderness.
-- Protect the natural balance wherever it is threatened.
-- Leave every place healthier than it was found.
+- 91 gp
+- 27 sp
+- 5 × Agates (10 gp each)
 
 ---
 
-# Character Summary
+# Story Items
+
+- Ancient Iron Key
+- Leaf of the First Oak
+- Silver-capped Acorn
+- Harlan's Journal
+- Grey Ledger Correspondence
+- Regional Map marking Five Ancient Sites
+
+---
+
+# Known Allies
+
+- Aelthiel
+- Forest Oracle
+- Old Bramble
+
+---
+
+# Known Ancient Guardians
+
+- Forest Oracle
+- Old Bramble
+- Great Elk *(yet to be met)*
+- Sky-Eye *(known by reputation)*
+- Stone-Sleeper *(known by reputation)*
+- Grey Antlers *(known by reputation)*
+
+---
+
+# Character Philosophy
 
 Fae is not a hero seeking fame, riches or titles.
 
@@ -341,4 +297,12 @@ A healer when kindness is needed.
 
 A guardian when strength is required.
 
-Every road offers another lesson, every forest another story, and every creature another opportunity to better understand the living world.
+Every road offers another lesson.
+
+Every forest another story.
+
+Every creature another opportunity to better understand the living world.
+
+As his journey continues, Fae is becoming something more than a wandering druid.
+
+He is slowly earning his place among the ancient guardians who have watched over the wilds for centuries.
